@@ -8,5 +8,7 @@ public class Variable {
         System.out.println("name = " + name);
         int c=50;
         System.out.println("c = " + c);
+        int d=30;
+        System.out.println("d = " + d);
     }
 }
